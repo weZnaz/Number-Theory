@@ -1,4 +1,4 @@
-# Number Theory and Cryptography
+﻿# Number Theory and Cryptography
 
 This repository was created as an academic learning project inspired by the workshop materials from the Maths and Physics Club, IIT Bombay. The purpose is to study number theory, understand how it underpins modern cryptography, and implement the important algorithms in Python with clear explanations.
 
@@ -74,7 +74,7 @@ The RSA implementation in this project is intentionally educational and uses sma
 
 ```bash
 python -m venv .venv
-.venv\Scriptsctivate
+.venv\Scripts\activate
 pip install -r requirements.txt
 python -m unittest discover -s tests
 ```
